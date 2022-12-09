@@ -1,2 +1,2 @@
 # Adventure-Works-
-Power BI Project
+Power BI Project based on sales of the company. 
